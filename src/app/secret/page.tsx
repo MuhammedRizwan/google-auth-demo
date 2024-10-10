@@ -38,7 +38,7 @@ export default async function Secret() {
           </p>
         </CardContent>
         <CardFooter className="flex justify-center">
-          <Link href="/profile">
+          <Link href="/">
             <Button variant="outline">
               <ArrowLeft className="mr-2 h-4 w-4" />
               Back to Profile
